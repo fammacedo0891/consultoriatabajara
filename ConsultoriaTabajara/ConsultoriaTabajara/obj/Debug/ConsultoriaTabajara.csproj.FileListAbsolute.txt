@@ -1,0 +1,7 @@
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\obj\Debug\ConsultoriaTabajara.csprojAssemblyReference.cache
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\obj\Debug\ConsultoriaTabajara.csproj.CoreCompileInputs.cache
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\bin\Debug\ConsultoriaTabajara.exe.config
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\bin\Debug\ConsultoriaTabajara.exe
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\bin\Debug\ConsultoriaTabajara.pdb
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\obj\Debug\ConsultoriaTabajara.exe
+F:\Fernando\Curso\c#\Sistemas\ConsultoriaTabajara\ConsultoriaTabajara\ConsultoriaTabajara\obj\Debug\ConsultoriaTabajara.pdb
